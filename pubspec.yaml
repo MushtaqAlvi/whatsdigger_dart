@@ -1,0 +1,15 @@
+name: whatsdigger
+description: A Whatsapp link and info Scrapper with powerful automation and fast user friendly whatsapp linkes crawler for web pages. (WhatsApp Scrapper and Crawler)
+version: 0.0.5
+homepage: https://github.com/MushtaqAlvi/whatsdigger_dart
+repository: https://github.com/MushtaqAlvi/whatsdigger_dart
+
+environment:
+  sdk: ">=2.15.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  chaleno: ^0.0.5
+
+
+
